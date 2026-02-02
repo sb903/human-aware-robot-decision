@@ -1,4 +1,4 @@
-# 🤖 Human-Aware Robot Decision System
+#  Human-Aware Robot Decision System
 
 An AI system that decides when robots should act or wait based on human presence.
 
